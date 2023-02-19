@@ -1,7 +1,6 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@mdi/js': ^7.1.96
   '@nuxtjs/color-mode': ^3.2.0
   autoprefixer: ^10.4.13
   nuxt: ^3.2.2
@@ -9,7 +8,6 @@ specifiers:
   tailwindcss: ^3.2.7
 
 devDependencies:
-  '@mdi/js': 7.1.96
   '@nuxtjs/color-mode': 3.2.0
   autoprefixer: 10.4.13_postcss@8.4.21
   nuxt: 3.2.2
@@ -792,10 +790,6 @@ packages:
     transitivePeerDependencies:
       - encoding
       - supports-color
-    dev: true
-
-  /@mdi/js/7.1.96:
-    resolution: {integrity: sha512-wlrJs6Ryhaa5CqhK3FjTfMRnb/s7HeLkKMFqwQySkK86cdN1TGdzpSM3O4tsmzCA1dYBeTbXvOwSE/Y42cUrvA==}
     dev: true
 
   /@netlify/functions/1.4.0:
