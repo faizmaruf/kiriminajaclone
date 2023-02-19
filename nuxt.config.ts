@@ -33,11 +33,7 @@ export default defineNuxtConfig({
                 }
             ]
         },
-    },
-     plugins: [
-        { src: '~/plugins/mdi.js' }
-    ]
-   
+    },   
 })
 
 
